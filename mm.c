@@ -3,8 +3,8 @@
  *                               mm.c                                         *
  *           64-bit struct-based implicit free list memory allocator          *
  *                      without coalesce functionality                        *
- *                 CSE 361: Introduction to Computer Systems                  *
- *                          Anand Nambakam 450431
+ *                                                                            *
+ *                          Anand Nambakam 450431                             *
  *                                                                            *
  *  ************************************************************************  *
  *           64-bit struct-based segregated list memory allocator with        *
